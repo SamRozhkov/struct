@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T09:28:55.728Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.764 Yowser/2.5 Safari/537.36" etag="gSjTH8bOSntGZqQ3f1dm" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T10:10:34.152Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.764 Yowser/2.5 Safari/537.36" etag="-xX73hPoX44j6YfrvoXl" version="21.3.7" type="github">
   <diagram name="Страница 1" id="AbLkEYGohzZe09rI4aGx">
-    <mxGraphModel dx="597" dy="2403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1463" dy="2878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,6 +537,15 @@
         </mxCell>
         <mxCell id="2HJxNHVAc2JlDdIWd6cz-140" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Управление&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4001" y="1121.37" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HJxNHVAc2JlDdIWd6cz-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.62;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2HJxNHVAc2JlDdIWd6cz-142" target="2HJxNHVAc2JlDdIWd6cz-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HJxNHVAc2JlDdIWd6cz-142" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cluster Manager&lt;br&gt;Arenadata&lt;/font&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" vertex="1" parent="1">
+          <mxGeometry x="2160" y="-32" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2HJxNHVAc2JlDdIWd6cz-143" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="-44" width="36.59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
